@@ -29,9 +29,9 @@ Well if you want to connect or see what all shitty projects I made. You could go
 
 -----
 
-![Email]()
+![Email](https://github.com/Faith1406/blog/blob/main/images/email.png)
 
-[Visit My world](https://faith1405.github.io/Portfolio/)
+[Visit My world](https://faith1406.github.io/Portfolio/)
 
 ***Well, Thank You*** 
 and ***Good Bye***
