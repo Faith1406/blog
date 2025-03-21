@@ -14,5 +14,6 @@ And also I am currently in a train travelling to the city where my college is so
 
 
 
-#Well, Thank You 
-and #Good Bye
+# Well, Thank You 
+and 
+# Good Bye
