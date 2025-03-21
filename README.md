@@ -29,7 +29,7 @@ Well if you want to connect or see what all shitty projects I made. You could go
 
 -----
 
-[<img src="https://github.com/Faith1406/blog/blob/main/images/email.png">](mailto:adityanaidu1014@gmail.com)
+[<img src="https://github.com/Faith1406/blog/blob/main/images/email.jpg">](mailto:adityanaidu1014@gmail.com)
 
 [Visit My world](https://faith1406.github.io/Portfolio/)
 
