@@ -1,8 +1,8 @@
 # Welcome to My Bloging space  
 
-This is where i would try to post my whole week's experience with different projects that I am working on and many things I failed to make and learn.
+This is where I would try to post my whole week's experience with different projects that I am working on and many things I failed to make and learn.
 
-This will not be a profecssional senior developer blog, that's why i choose github as the posting platform, by no means I am saying that github is an unprofessional or bad place to post a blog or any article, but I am saying that people might not even know about these post.
+This will not be a profecssional senior developer blog, that's why I choose github as the posting platform, by no means I am saying that github is an unprofessional or bad place to post a blog or any article, but I am saying that people might not even know about these post.
 
 I will try to post in every week and also update this Readme.md file.
 
@@ -27,10 +27,11 @@ So my name is **Aditya Naidu** aka **Taiyo**, like a metioned before I am curren
 
 Well if you want to connect or see what all shitty projects I made. You could go to the link below.
 
-<span class="material-icons">
-this is not working.
-</span>
-This is My web [space](https://faith1406.github.io/Portfolio/)
+-----
 
-*Well, Thank You* 
-and *Good Bye*
+![Email]()
+
+[Visit My world](https://faith1405.github.io/Portfolio/)
+
+***Well, Thank You*** 
+and ***Good Bye***
